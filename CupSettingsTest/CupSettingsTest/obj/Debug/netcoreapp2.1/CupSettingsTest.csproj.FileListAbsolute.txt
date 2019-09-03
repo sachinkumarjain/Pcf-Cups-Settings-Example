@@ -39,7 +39,6 @@ C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\bin\Debug\ne
 C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\bin\Debug\netcoreapp2.1\CupSettingsTest.pdb
 C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\bin\Debug\netcoreapp2.1\CupSettingsTest.Views.dll
 C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\bin\Debug\netcoreapp2.1\CupSettingsTest.Views.pdb
-C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\obj\Debug\netcoreapp2.1\CupSettingsTest.csprojAssemblyReference.cache
 C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\obj\Debug\netcoreapp2.1\CupSettingsTest.csproj.CoreCompileInputs.cache
 C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\obj\Debug\netcoreapp2.1\CupSettingsTest.RazorAssemblyInfo.cache
 C:\github\Pcf-Cups-Settings-Example\CupSettingsTest\CupSettingsTest\obj\Debug\netcoreapp2.1\CupSettingsTest.RazorAssemblyInfo.cs
