@@ -1,0 +1,14 @@
+﻿applications:
+- name: cups-Settings-PCF-Test
+  env: 
+    ASPNETCORE_ENVIRONMENT: 'Test'
+  buildpacks: 
+  - dotnet_core_buildpack
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+  routes:
+  - route: cups-Settings-PCF-Test.ausvdc02.pcf.dell.com
+  stack: cflinuxfs3
+  services:
+  - Cups_Test_SIT
